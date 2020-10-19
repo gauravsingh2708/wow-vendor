@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "54666260765",
+    "firebase_url": "https://wowmerchant-38e7e.firebaseio.com",
+    "project_id": "wowmerchant-38e7e",
+    "storage_bucket": "wowmerchant-38e7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54666260765:android:c31278dcb41f16b226b1f4",
+        "android_client_info": {
+          "package_name": "com.wow.merchant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "54666260765-1ngq470memnah1oh9sbkdubll9f563hu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsl3eVENbyjPb3cVzZ6NdopzgwWm78wAQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "54666260765-1ngq470memnah1oh9sbkdubll9f563hu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
